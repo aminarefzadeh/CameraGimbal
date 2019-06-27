@@ -152,7 +152,7 @@ uint8_t teapotPacket[14] = { '$', 0x02, 0,0, 0,0, 0,0, 0,0, 0x00, 0x00, '\r', '\
 
 
 #define XSPEEDPIN 9
-#define YSPEEDPIN 12
+#define YSPEEDPIN 10
 #define XPIN1 6
 #define XPIN2 7
 #define YPIN1 4
